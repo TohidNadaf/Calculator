@@ -18,7 +18,6 @@ The Simple Calculator project is a web-based calculator application that allows 
 - Styles for buttons, rows, and input fields are defined for a clean and visually appealing layout.
 
 **JavaScript:**
-- JavaScript code is embedded within `<script>` tags at the end of the `<body>` section.
 - It handles the functionality of the calculator:
   - Click event listeners are added to all buttons with the class `button`.
   - The `string` variable stores the user's input as a string.
