@@ -1,0 +1,75 @@
+/* Center the box both horizontally and vertically */
+.center {
+    
+    text-align: center;
+    margin-top: 20px; /* Adjust this margin as needed */
+    font-size: 50px;
+}
+
+.mx-auto{
+    /* margin: auto; */
+    border: solid black;
+
+    margin-right: 510px;
+    margin-left: 510px;
+    background-color: darkcyan;
+}
+
+.flex{
+    display: flex;
+}
+.flex{
+    flex-direction: column;
+}
+.items-center{
+   
+    align-items: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+html , body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Mooli', sans-serif;
+    
+    
+}
+.button{
+    height: 50px;
+    width: 50px;
+    padding:30px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+   
+}
+
+body{
+    background-image: url('calc.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    /* background-size: cover; */
+  }
+.row{
+   
+    padding: 5px;
+    
+}
+.row input{
+   
+    width: 295px;
+    font-size: 19px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+.input{
+    display: flex;
+justify-content: ;
+}
+
+
